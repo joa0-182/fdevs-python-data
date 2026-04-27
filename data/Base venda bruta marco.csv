@@ -1,0 +1,521 @@
+DATA;UF;CODIGOGRUPOPRODUTO;DESCRICAOGRUPOPRODUTO;CODIGOPRODUTO;NOMEPRODUTO;VOLUMESELLOUT;PRECO;DATACARGA
+2026-03-07;RJ;91503409;Bebidas Prontas Geladas;10021539;Hard Seltzer Guaraná 310ml;10.0;15.00;2026-04-01
+2026-03-16;PR;90013060;Bebidas Prontas para Consumo (RTD);10003635;Gin Tônica em Lata 269ml;50.0;15.00;2026-04-01
+2026-03-26;MG;90013060;Bebidas Prontas para Consumo (RTD);10003635;Gin Tônica em Lata 269ml;;10.50;2026-04-01
+2026-03-22;PR;90013211;Controle de Qualidade de Bebidas;10022262;Solução de Limpeza Sanitizante 5L;;10.50;2026-04-01
+2026-03-26;BA;90013060;Bebidas Prontas para Consumo (RTD);10005773;Gin Tônica 1L (Garrafa);10.0;5.99;2026-04-01
+2026-03-27;PR;90013227;Bebidas Nutricionais;10007983;Shake Nutricional de Proteína 250ml;10.0;15.00;2026-04-01
+;;90013014;Sucos Naturais Premium;10008338;Suco de Laranja Integral 1L;20.0;5.99;2026-04-01
+2026-03-15;MG;90013229;Laboratório de Qualidade de Bebidas;30002331;Densímetro Digital de Alta Precisão;;10.50;2026-04-01
+2026-03-27;rj;90013014;Sucos Naturais Premium;10008337;Suco de Laranja Integral 500ml;10.0;10.50;2026-04-01
+2026-03-13;sp ;90013220;Cervejas Comerciais;10005048;Cerveja Pilsen Comercial 1L;50.0;15.00;2026-04-01
+2026-03-13;RJ;90013172;Bebidas Mistas Alcoólicas;10015856;Drink Misto Lemonade 269ml;50.0;5.99;2026-04-01
+2026-03-15;;90013060;Bebidas Prontas para Consumo (RTD);10003700;Vodka e Citrus Lata 269ml;20.0;15.00;2026-04-01
+2026-03-17;SP;90013060;Bebidas Prontas para Consumo (RTD);10005777;Cocktail de Frutas Lata 269ml;50.0;10.50;2026-04-01
+2026-03-27;;91503402;Bebidas Energéticas Funcionais;10022949;Energético Focus Max 1L (Garrafa);10.0;10.50;2026-04-01
+2026-03-09;SP;90013023;Destilados Especiais;10013359;Rum Carta Blanca Especial 1L;;5.99;2026-04-01
+2026-03-12;MG;90013172;Bebidas Mistas Alcoólicas;10015858;Drink Misto Strawberry 269ml;10.0;10.50;2026-04-01
+2026-03-02;SP;90013068;Cervejas Especiais de Trigo;10003719;Cerveja Weiss Trigo Tradicional 500ml;50.0;15.00;2026-04-01
+2026-03-14;MG;90013224;Vinhos e Espumantes;10017074;Espumante Brut 750ml;10.0;15.00;2026-04-01
+2026-03-08;SP;90013172;Bebidas Mistas Alcoólicas;10015855;Drink Misto Pineapple 269ml;50.0;10.50;2026-04-01
+2026-03-02;MG;90013231;Destilados Ultra Premium;10008901;Cognac XO Edição de Luxo 700ml;20.0;15.00;2026-04-01
+2026-03-21;BA;90013079;Refrigerantes Sabor Frutas;10007785;Refrigerante de Guaraná 2L;;15.00;2026-04-01
+2026-03-28;RJ;90013218;Cervejas de Grande Produção;10003707;Chope Claro em Barril 50L;10.0;10.50;2026-04-01
+2026-03-10;sp ;90013079;Refrigerantes Sabor Frutas;10007787;Refrigerante de Laranja 2L;20.0;5.99;2026-04-01
+2026-03-21;BA;90013060;Bebidas Prontas para Consumo (RTD);10003696;Gin Tônica Limão 269ml;20.0;5.99;2026-04-01
+2026-03-23;SP;90013079;Refrigerantes Sabor Frutas;10007785;Refrigerante de Guaraná 2L;50.0;15.00;2026-04-01
+2026-03-21;sp ;90013060;Bebidas Prontas para Consumo (RTD);10003635;Gin Tônica em Lata 269ml;;10.50;2026-04-01
+2026-03-04;rj;90013210;Produção de Bebidas em Grande Escala;10023223;Malte de Trigo Especial 25kg;50.0;10.50;2026-04-01
+2026-03-22;SP;90013068;Cervejas Especiais de Trigo;10003719;Cerveja Weiss Trigo Tradicional 500ml;10.0;15.00;2026-04-01
+2026-03-13;MG;91503405;Energéticos de Alta Performance;10023656;Shot Energético Ultra-Concentrado 60ml;50.0;10.50;2026-04-01
+2026-03-25;sp ;90013210;Produção de Bebidas em Grande Escala;10022244;Levedura Cervejeira Especial 1kg;50.0;15.00;2026-04-01
+2026-03-18;;90013082;Cervejas Regionais;10021924;Cerveja Pilsen Regional do Sul 600ml;20.0;10.50;2026-04-01
+2026-03-03;SP;90013216;Cervejas Industriais Premium;10002839;Cerveja Premium Export 330ml;50.0;15.00;2026-04-01
+2026-03-05;sp ;90013216;Cervejas Industriais Premium;10003734;Cerveja Premium Export 600ml;20.0;10.50;2026-04-01
+2026-03-01;SP;90013212;Equipamentos para Produção de Bebidas;30002384;Barril Inox para Fermentação 50L;20.0;10.50;2026-04-01
+2026-03-24;RJ;90013018;Destilados Premium;10016862;Gin London Dry Premium 750ml;;15.00;2026-04-01
+2026-03-24;BA;91503405;Energéticos de Alta Performance;10023656;Shot Energético Ultra-Concentrado 60ml;10.0;10.50;2026-04-01
+2026-03-07;SP;90013060;Bebidas Prontas para Consumo (RTD);10003698;Gin Tônica Frutas Vermelhas 269ml;10.0;15.00;2026-04-01
+2026-03-19;PR;90013041;Cervejas Artesanais Lupuladas;10008019;Cerveja IPA Imperial Lúpulo 473ml;50.0;15.00;2026-04-01
+2026-03-16;RJ;90013159;Cervejas Puro Malte;10002818;Cerveja Puro Malte Premium 355ml;;10.50;2026-04-01
+2026-03-06;;90013154;Refrigerantes Tradicionais;10023011;Refrigerante Guaraná Retornável 1L;;10.50;2026-04-01
+2026-03-09;MG;90013018;Destilados Premium;10002994;Vodka Destilada Premium 1L;50.0;5.99;2026-04-01
+2026-03-04;PR;90013219;Bebidas Funcionais Naturais;10004608;Chá Energético Natural de Guaraná 500ml;20.0;10.50;2026-04-01
+2026-03-22;BA;90013226;Bebidas Relaxantes e Digestivas;10005020;Bebida Digestiva de Ervas 200ml;10.0;5.99;2026-04-01
+2026-03-08;;90013032;Vinhos Tintos Importados;10003736;Vinho Tinto Malbec Argentino 750ml;50.0;5.99;2026-04-01
+2026-03-07;rj;90013154;Refrigerantes Tradicionais;10023011;Refrigerante Guaraná Retornável 1L;20.0;5.99;2026-04-01
+2026-03-25;;90013226;Bebidas Relaxantes e Digestivas;10005020;Bebida Digestiva de Ervas 200ml;50.0;10.50;2026-04-01
+2026-03-11;SP;90013014;Sucos Naturais Premium;10008339;Suco de Laranja Integral 2L;50.0;5.99;2026-04-01
+2026-03-01;MG;91503402;Bebidas Energéticas Funcionais;10022953;Energético Focus Max 500ml (Garrafa);;5.99;2026-04-01
+2026-03-15;BA;90013221;Produção de Bebidas em Escala;10005054;Gás Carbônico Alimentício 20kg;10.0;5.99;2026-04-01
+2026-03-22;rj;90013032;Vinhos Tintos Importados;10003736;Vinho Tinto Malbec Argentino 750ml;;15.00;2026-04-01
+2026-03-23;RJ;90013228;Espumantes e Vinhos Finos;10012250;Vinho Rosé Provence Fino 750ml;10.0;10.50;2026-04-01
+2026-03-11;;90013068;Cervejas Especiais de Trigo;10003720;Cerveja Weiss Trigo Dunkel 500ml;20.0;5.99;2026-04-01
+2026-03-19;rj;90013060;Bebidas Prontas para Consumo (RTD);10003635;Gin Tônica em Lata 269ml;;15.00;2026-04-01
+2026-03-13;BA;90013229;Laboratório de Qualidade de Bebidas;30002331;Densímetro Digital de Alta Precisão;;5.99;2026-04-01
+2026-03-04;PR;90013060;Bebidas Prontas para Consumo (RTD);10005773;Gin Tônica 1L (Garrafa);10.0;15.00;2026-04-01
+2026-03-24;RJ;90013210;Produção de Bebidas em Grande Escala;10023219;Concentrado de Xarope Laranja 50L;20.0;5.99;2026-04-01
+2026-03-09;BA;90013094;Bebidas Energéticas Premium;10020283;Energético Red Blue Summer Edition 250ml;10.0;10.50;2026-04-01
+2026-03-18;;90013231;Destilados Ultra Premium;10008901;Cognac XO Edição de Luxo 700ml;20.0;10.50;2026-04-01
+2026-03-04;sp ;90013217;Base para Bebidas Alcoólicas;10016439;Kit de Insumos para Mixologia Industrial;;15.00;2026-04-01
+2026-03-10;rj;90013216;Cervejas Industriais Premium;10002839;Cerveja Premium Export 330ml;20.0;10.50;2026-04-01
+2026-03-07;;90013060;Bebidas Prontas para Consumo (RTD);10003703;Mojito Pronto Lata 269ml;;15.00;2026-04-01
+2026-03-24;SP;90013094;Bebidas Energéticas Premium;10020283;Energético Red Blue Summer Edition 250ml;;10.50;2026-04-01
+2026-03-03;SP;90013224;Vinhos e Espumantes;10017074;Espumante Brut 750ml;50.0;5.99;2026-04-01
+2026-03-12;RJ;90013094;Bebidas Energéticas Premium;10020282;Energético Red Blue Tropical Edition 250ml;50.0;10.50;2026-04-01
+2026-03-11;sp ;90013172;Bebidas Mistas Alcoólicas;10015854;Pack Econômico Drink Misto 269ml;50.0;5.99;2026-04-01
+2026-03-11;sp ;90013213;Categoria de Bebidas Diversas;90013437;Água Tônica Industrial para Mistura 20L;;15.00;2026-04-01
+2026-03-03;sp ;90013231;Destilados Ultra Premium;10008901;Cognac XO Edição de Luxo 700ml;10.0;10.50;2026-04-01
+2026-03-19;MG;90013094;Bebidas Energéticas Premium;10020280;Energético Red Blue Original 250ml;10.0;10.50;2026-04-01
+2026-03-22;PR;90013225;Licores e Destilados Aromáticos;10004460;Licor de Café Aromático 500ml;50.0;10.50;2026-04-01
+2026-03-09;BA;90013011;Cervejas Lager Tradicionais;10001628;Cerveja Lager Standard 350ml (Lata);;5.99;2026-04-01
+2026-03-03;SP;90013060;Bebidas Prontas para Consumo (RTD);10003635;Gin Tônica em Lata 269ml;10.0;15.00;2026-04-01
+2026-03-25;RJ;90013006;Bebidas Funcionais Vitaminadas;10022282;Isotônico Uva Vitaminado 500ml;10.0;5.99;2026-04-01
+2026-03-17;MG;90013226;Bebidas Relaxantes e Digestivas;10005020;Bebida Digestiva de Ervas 200ml;50.0;10.50;2026-04-01
+2026-03-28;PR;90013220;Cervejas Comerciais;10005048;Cerveja Pilsen Comercial 1L;50.0;15.00;2026-04-01
+2026-03-24;MG;90013082;Cervejas Regionais;10021923;Cerveja Pilsen Regional do Norte 600ml;10.0;15.00;2026-04-01
+2026-03-10;;90013211;Controle de Qualidade de Bebidas;10022262;Solução de Limpeza Sanitizante 5L;10.0;5.99;2026-04-01
+2026-03-02;PR;90013217;Base para Bebidas Alcoólicas;10003690;Álcool Etílico Neutro de Cereais 500L;;15.00;2026-04-01
+2026-03-25;RJ;90013172;Bebidas Mistas Alcoólicas;10015850;Drink Misto Melancia 269ml;20.0;10.50;2026-04-01
+2026-03-03;MG;90013022;Insumos para Produção de Bebidas;10026538;Lúpulo em Pellet para Brassagem 5kg;10.0;5.99;2026-04-01
+2026-03-08;RJ;90013211;Controle de Qualidade de Bebidas;10022262;Solução de Limpeza Sanitizante 5L;;5.99;2026-04-01
+2026-03-09;sp ;90013153;Refrigerantes Sabor Cola;10001866;Refri Cola Original 2L;50.0;15.00;2026-04-01
+2026-03-20;BA;90013094;Bebidas Energéticas Premium;10020282;Energético Red Blue Tropical Edition 250ml;;15.00;2026-04-01
+2026-03-05;rj;90013212;Equipamentos para Produção de Bebidas;30002383;Barril Inox para Fermentação 30L;50.0;5.99;2026-04-01
+2026-03-19;;90013153;Refrigerantes Sabor Cola;10001866;Refri Cola Original 2L;10.0;15.00;2026-04-01
+2026-03-09;;90013211;Controle de Qualidade de Bebidas;10022262;Solução de Limpeza Sanitizante 5L;50.0;5.99;2026-04-01
+2026-03-01;MG;90013060;Bebidas Prontas para Consumo (RTD);10005771;Pack 6 Unidades Gin Tônica 269ml;20.0;10.50;2026-04-01
+2026-03-20;BA;90013032;Vinhos Tintos Importados;10003736;Vinho Tinto Malbec Argentino 750ml;20.0;10.50;2026-04-01
+2026-03-03;RJ;90013172;Bebidas Mistas Alcoólicas;10015856;Drink Misto Lemonade 269ml;50.0;10.50;2026-04-01
+2026-03-26;SP;91503402;Bebidas Energéticas Funcionais;10022965;Energético Focus Max Zero 473ml;10.0;5.99;2026-04-01
+2026-03-05;rj;90013060;Bebidas Prontas para Consumo (RTD);10003703;Mojito Pronto Lata 269ml;;15.00;2026-04-01
+2026-03-23;;90013014;Sucos Naturais Premium;10021324;Néctar de Uva Premium 1L;50.0;15.00;2026-04-01
+2026-03-08;PR;90013217;Base para Bebidas Alcoólicas;10016439;Kit de Insumos para Mixologia Industrial;50.0;15.00;2026-04-01
+2026-03-13;BA;91503405;Energéticos de Alta Performance;10023656;Shot Energético Ultra-Concentrado 60ml;10.0;10.50;2026-04-01
+2026-03-01;rj;90013060;Bebidas Prontas para Consumo (RTD);10003702;Vodka e Maçã Verde Lata 269ml;50.0;15.00;2026-04-01
+2026-03-10;rj;90013214;Matéria-prima para Bebidas;10003715;Açúcar Cristal Refinado Industrial 50kg;50.0;10.50;2026-04-01
+2026-03-02;RJ;90013079;Refrigerantes Sabor Frutas;10007787;Refrigerante de Laranja 2L;10.0;10.50;2026-04-01
+2026-03-28;sp ;90013094;Bebidas Energéticas Premium;10020280;Energético Red Blue Original 250ml;10.0;10.50;2026-04-01
+2026-03-24;rj;90013172;Bebidas Mistas Alcoólicas;10015855;Drink Misto Pineapple 269ml;10.0;5.99;2026-04-01
+2026-03-20;;90013071;Destilados Clássicos;10015725;Cachaça Envelhecida Clássica 600ml;20.0;5.99;2026-04-01
+2026-03-14;sp ;90013172;Bebidas Mistas Alcoólicas;10015849;Drink Misto Blueberry 330ml;;10.50;2026-04-01
+2026-03-25;RJ;90013201;Cervejas Artesanais Premium;10001163;Cerveja Artesanal Alpha Gold 600ml;50.0;5.99;2026-04-01
+2026-03-15;sp ;90013060;Bebidas Prontas para Consumo (RTD);10003700;Vodka e Citrus Lata 269ml;10.0;5.99;2026-04-01
+2026-03-12;;90013006;Bebidas Funcionais Vitaminadas;10022282;Isotônico Uva Vitaminado 500ml;;15.00;2026-04-01
+2026-03-10;sp ;90013228;Espumantes e Vinhos Finos;10012250;Vinho Rosé Provence Fino 750ml;;10.50;2026-04-01
+2026-03-08;MG;90013172;Bebidas Mistas Alcoólicas;10015857;Drink Misto Peach 269ml;;5.99;2026-04-01
+;rj;90013014;Sucos Naturais Premium;10008337;Suco de Laranja Integral 500ml;;10.50;2026-04-01
+2026-03-16;sp ;90013094;Bebidas Energéticas Premium;10020281;Energético Red Blue Sugar Free 250ml;10.0;10.50;2026-04-01
+2026-03-07;PR;90013220;Cervejas Comerciais;10005047;Cerveja Pilsen Comercial 350ml;;5.99;2026-04-01
+2026-03-18;MG;90013041;Cervejas Artesanais Lupuladas;10008019;Cerveja IPA Imperial Lúpulo 473ml;20.0;10.50;2026-04-01
+2026-03-04;BA;91503404;Bebidas Gasosas Saborizadas;10022636;Água Tônica Tradicional 350ml;;10.50;2026-04-01
+2026-03-06;PR;90013230;Refrigerantes Premium;10008007;Ginger Ale Premium Ginger 350ml;;15.00;2026-04-01
+2026-03-16;MG;90013220;Cervejas Comerciais;10005048;Cerveja Pilsen Comercial 1L;;5.99;2026-04-01
+2026-03-09;rj;90013082;Cervejas Regionais;10021923;Cerveja Pilsen Regional do Norte 600ml;;15.00;2026-04-01
+2026-03-21;sp ;90013060;Bebidas Prontas para Consumo (RTD);10005771;Pack 6 Unidades Gin Tônica 269ml;50.0;15.00;2026-04-01
+2026-03-21;RJ;91503409;Bebidas Prontas Geladas;10021537;Hard Seltzer Abacaxi 310ml;50.0;15.00;2026-04-01
+2026-03-17;PR;90013228;Espumantes e Vinhos Finos;10012250;Vinho Rosé Provence Fino 750ml;;5.99;2026-04-01
+2026-03-13;;90013215;Cervejas Industriais;10007958;Cerveja Pilsen Econômica 269ml;50.0;10.50;2026-04-01
+2026-03-15;sp ;90013032;Vinhos Tintos Importados;10001164;Vinho Tinto Cabernet Reservado 750ml;20.0;15.00;2026-04-01
+2026-03-02;PR;90013076;Destilados de Alta Graduação;10020244;Absinto de Alta Graduação 500ml;;5.99;2026-04-01
+2026-03-23;SP;91503405;Energéticos de Alta Performance;10023656;Shot Energético Ultra-Concentrado 60ml;50.0;15.00;2026-04-01
+2026-03-25;SP;90013231;Destilados Ultra Premium;10008901;Cognac XO Edição de Luxo 700ml;10.0;10.50;2026-04-01
+2026-03-20;SP;90013014;Sucos Naturais Premium;10008338;Suco de Laranja Integral 1L;20.0;5.99;2026-04-01
+2026-03-04;rj;90013006;Bebidas Funcionais Vitaminadas;10022283;Isotônico Tangerina Vitaminado 500ml;20.0;10.50;2026-04-01
+2026-03-24;;90013094;Bebidas Energéticas Premium;10020281;Energético Red Blue Sugar Free 250ml;20.0;15.00;2026-04-01
+2026-03-21;BA;91503402;Bebidas Energéticas Funcionais;10022954;Energético Focus Max Pack 6x250ml;20.0;15.00;2026-04-01
+2026-03-28;BA;90013227;Bebidas Nutricionais;10007983;Shake Nutricional de Proteína 250ml;;10.50;2026-04-01
+2026-03-14;SP;90013011;Cervejas Lager Tradicionais;10001628;Cerveja Lager Standard 350ml (Lata);;10.50;2026-04-01
+2026-03-22;RJ;90013014;Sucos Naturais Premium;10008338;Suco de Laranja Integral 1L;20.0;10.50;2026-04-01
+2026-03-18;MG;90013212;Equipamentos para Produção de Bebidas;30002383;Barril Inox para Fermentação 30L;20.0;5.99;2026-04-01
+2026-03-05;RJ;90013060;Bebidas Prontas para Consumo (RTD);10003698;Gin Tônica Frutas Vermelhas 269ml;20.0;10.50;2026-04-01
+2026-03-27;RJ;90013172;Bebidas Mistas Alcoólicas;10015848;Drink Misto Blueberry 269ml;;15.00;2026-04-01
+2026-03-11;sp ;90013201;Cervejas Artesanais Premium;10001163;Cerveja Artesanal Alpha Gold 600ml;10.0;10.50;2026-04-01
+2026-03-05;rj;90013032;Vinhos Tintos Importados;10003736;Vinho Tinto Malbec Argentino 750ml;20.0;15.00;2026-04-01
+2026-03-02;;90013221;Produção de Bebidas em Escala;10005054;Gás Carbônico Alimentício 20kg;10.0;15.00;2026-04-01
+2026-03-12;BA;91503409;Bebidas Prontas Geladas;10021538;Hard Seltzer Pack Mix 310ml;10.0;10.50;2026-04-01
+2026-03-01;BA;91503409;Bebidas Prontas Geladas;10021538;Hard Seltzer Pack Mix 310ml;50.0;5.99;2026-04-01
+2026-03-23;rj;90013014;Sucos Naturais Premium;10008336;Suco de Laranja Integral 300ml;10.0;5.99;2026-04-01
+2026-03-12;SP;90013082;Cervejas Regionais;10021924;Cerveja Pilsen Regional do Sul 600ml;20.0;5.99;2026-04-01
+2026-03-13;SP;90013153;Refrigerantes Sabor Cola;10001864;Refri Cola Original 250ml;10.0;15.00;2026-04-01
+2026-03-09;PR;90013212;Equipamentos para Produção de Bebidas;30002390;Tampa e Lacre para Garrafas (Lote 1000);10.0;5.99;2026-04-01
+2026-03-05;RJ;90013079;Refrigerantes Sabor Frutas;10007784;Refrigerante de Guaraná 600ml;;5.99;2026-04-01
+2026-03-04;sp ;90013212;Equipamentos para Produção de Bebidas;30002384;Barril Inox para Fermentação 50L;10.0;10.50;2026-04-01
+2026-03-27;sp ;90013060;Bebidas Prontas para Consumo (RTD);10005775;Pack 12 Unidades Gin Tônica 269ml;;15.00;2026-04-01
+2026-03-27;BA;90013068;Cervejas Especiais de Trigo;10003719;Cerveja Weiss Trigo Tradicional 500ml;20.0;15.00;2026-04-01
+2026-03-08;SP;90013060;Bebidas Prontas para Consumo (RTD);10003696;Gin Tônica Limão 269ml;10.0;5.99;2026-04-01
+2026-03-07;BA;90013224;Vinhos e Espumantes;10017074;Espumante Brut 750ml;;10.50;2026-04-01
+2026-03-08;MG;90013228;Espumantes e Vinhos Finos;10012250;Vinho Rosé Provence Fino 750ml;10.0;5.99;2026-04-01
+2026-03-18;BA;90013082;Cervejas Regionais;10021923;Cerveja Pilsen Regional do Norte 600ml;20.0;15.00;2026-04-01
+2026-03-04;PR;90013068;Cervejas Especiais de Trigo;10003720;Cerveja Weiss Trigo Dunkel 500ml;10.0;5.99;2026-04-01
+2026-03-24;sp ;90013201;Cervejas Artesanais Premium;10001163;Cerveja Artesanal Alpha Gold 600ml;;10.50;2026-04-01
+2026-03-13;BA;90013153;Refrigerantes Sabor Cola;10001864;Refri Cola Original 250ml;;10.50;2026-04-01
+2026-03-21;;90013018;Destilados Premium;10016862;Gin London Dry Premium 750ml;20.0;10.50;2026-04-01
+2026-03-27;;90013079;Refrigerantes Sabor Frutas;10007787;Refrigerante de Laranja 2L;;5.99;2026-04-01
+2026-03-04;sp ;90013060;Bebidas Prontas para Consumo (RTD);10005773;Gin Tônica 1L (Garrafa);20.0;5.99;2026-04-01
+2026-03-18;;90013076;Destilados de Alta Graduação;10020244;Absinto de Alta Graduação 500ml;50.0;5.99;2026-04-01
+2026-03-15;SP;91503402;Bebidas Energéticas Funcionais;10022953;Energético Focus Max 500ml (Garrafa);20.0;15.00;2026-04-01
+2026-03-18;RJ;90013224;Vinhos e Espumantes;10017074;Espumante Brut 750ml;50.0;5.99;2026-04-01
+2026-03-17;rj;90013154;Refrigerantes Tradicionais;10023011;Refrigerante Guaraná Retornável 1L;50.0;10.50;2026-04-01
+2026-03-12;SP;90013006;Bebidas Funcionais Vitaminadas;10022281;Isotônico Citrus Vitaminado 500ml;50.0;5.99;2026-04-01
+2026-03-02;BA;90013023;Destilados Especiais;10013359;Rum Carta Blanca Especial 1L;;5.99;2026-04-01
+2026-03-11;BA;90013172;Bebidas Mistas Alcoólicas;10015857;Drink Misto Peach 269ml;10.0;15.00;2026-04-01
+2026-03-26;;90013210;Produção de Bebidas em Grande Escala;10023219;Concentrado de Xarope Laranja 50L;;15.00;2026-04-01
+2026-03-27;sp ;90013060;Bebidas Prontas para Consumo (RTD);10003698;Gin Tônica Frutas Vermelhas 269ml;50.0;10.50;2026-04-01
+2026-03-17;rj;90013215;Cervejas Industriais;10007958;Cerveja Pilsen Econômica 269ml;10.0;5.99;2026-04-01
+2026-03-05;RJ;90013153;Refrigerantes Sabor Cola;10001865;Refri Cola Original 600ml;20.0;15.00;2026-04-01
+2026-03-19;MG;90013220;Cervejas Comerciais;10005046;Cerveja Pilsen Comercial 600ml;;5.99;2026-04-01
+2026-03-02;PR;90013172;Bebidas Mistas Alcoólicas;10015859;Drink Misto Green Apple 269ml;10.0;5.99;2026-04-01
+2026-03-06;RJ;90013060;Bebidas Prontas para Consumo (RTD);10005773;Gin Tônica 1L (Garrafa);10.0;15.00;2026-04-01
+2026-03-23;rj;90013159;Cervejas Puro Malte;10002818;Cerveja Puro Malte Premium 355ml;20.0;10.50;2026-04-01
+2026-03-12;rj;90013094;Bebidas Energéticas Premium;10020282;Energético Red Blue Tropical Edition 250ml;50.0;15.00;2026-04-01
+2026-03-15;RJ;90013210;Produção de Bebidas em Grande Escala;10023223;Malte de Trigo Especial 25kg;;5.99;2026-04-01
+2026-03-25;MG;91503409;Bebidas Prontas Geladas;10021535;Hard Seltzer Amora 310ml;50.0;10.50;2026-04-01
+2026-03-13;SP;90013060;Bebidas Prontas para Consumo (RTD);10003635;Gin Tônica em Lata 269ml;50.0;10.50;2026-04-01
+2026-03-22;;90013060;Bebidas Prontas para Consumo (RTD);10003635;Gin Tônica em Lata 269ml;10.0;5.99;2026-04-01
+2026-03-02;;90013212;Equipamentos para Produção de Bebidas;30002383;Barril Inox para Fermentação 30L;10.0;5.99;2026-04-01
+2026-03-28;BA;90013224;Vinhos e Espumantes;10017074;Espumante Brut 750ml;;5.99;2026-04-01
+2026-03-06;sp ;90013014;Sucos Naturais Premium;10008337;Suco de Laranja Integral 500ml;10.0;10.50;2026-04-01
+2026-03-24;rj;91503409;Bebidas Prontas Geladas;10021538;Hard Seltzer Pack Mix 310ml;;5.99;2026-04-01
+2026-03-28;RJ;90013225;Licores e Destilados Aromáticos;10004460;Licor de Café Aromático 500ml;;10.50;2026-04-01
+2026-03-06;SP;90013079;Refrigerantes Sabor Frutas;10007786;Refrigerante de Laranja 600ml;50.0;10.50;2026-04-01
+2026-03-06;rj;91503405;Energéticos de Alta Performance;10023656;Shot Energético Ultra-Concentrado 60ml;;5.99;2026-04-01
+2026-03-11;SP;90013153;Refrigerantes Sabor Cola;10001866;Refri Cola Original 2L;;15.00;2026-04-01
+2026-03-03;sp ;90013060;Bebidas Prontas para Consumo (RTD);10005775;Pack 12 Unidades Gin Tônica 269ml;50.0;15.00;2026-04-01
+2026-03-06;BA;90013079;Refrigerantes Sabor Frutas;10007787;Refrigerante de Laranja 2L;;15.00;2026-04-01
+2026-03-21;rj;90013217;Base para Bebidas Alcoólicas;10003690;Álcool Etílico Neutro de Cereais 500L;20.0;5.99;2026-04-01
+2026-03-06;MG;90013076;Destilados de Alta Graduação;10020244;Absinto de Alta Graduação 500ml;10.0;5.99;2026-04-01
+2026-03-08;BA;90013014;Sucos Naturais Premium;10008339;Suco de Laranja Integral 2L;20.0;10.50;2026-04-01
+2026-03-27;;90013032;Vinhos Tintos Importados;10003736;Vinho Tinto Malbec Argentino 750ml;;5.99;2026-04-01
+2026-03-02;RJ;90013014;Sucos Naturais Premium;10008338;Suco de Laranja Integral 1L;50.0;10.50;2026-04-01
+2026-03-23;SP;90013060;Bebidas Prontas para Consumo (RTD);10003696;Gin Tônica Limão 269ml;10.0;5.99;2026-04-01
+2026-03-10;RJ;90013060;Bebidas Prontas para Consumo (RTD);10003698;Gin Tônica Frutas Vermelhas 269ml;10.0;5.99;2026-04-01
+2026-03-02;SP;91503404;Bebidas Gasosas Saborizadas;10022638;Soda Limonada Classic 350ml;20.0;15.00;2026-04-01
+2026-03-28;rj;90013005;Destilados Envelhecidos;10013358;Whisky Single Malt 12 Anos 750ml;20.0;10.50;2026-04-01
+2026-03-21;;90013014;Sucos Naturais Premium;10008336;Suco de Laranja Integral 300ml;10.0;10.50;2026-04-01
+2026-03-22;sp ;90013210;Produção de Bebidas em Grande Escala;10023215;Aditivo de Corante Natural 1L;;10.50;2026-04-01
+2026-03-06;RJ;90013060;Bebidas Prontas para Consumo (RTD);10005779;Margarita Pronta Lata 269ml;;15.00;2026-04-01
+2026-03-14;RJ;90013154;Refrigerantes Tradicionais;10023011;Refrigerante Guaraná Retornável 1L;10.0;10.50;2026-04-01
+2026-03-04;MG;90013210;Produção de Bebidas em Grande Escala;10022244;Levedura Cervejeira Especial 1kg;50.0;15.00;2026-04-01
+2026-03-23;SP;90013231;Destilados Ultra Premium;10008901;Cognac XO Edição de Luxo 700ml;50.0;10.50;2026-04-01
+2026-03-09;SP;90013172;Bebidas Mistas Alcoólicas;10015859;Drink Misto Green Apple 269ml;50.0;15.00;2026-04-01
+2026-03-23;rj;91503402;Bebidas Energéticas Funcionais;10022949;Energético Focus Max 1L (Garrafa);20.0;5.99;2026-04-01
+2026-03-21;RJ;90013094;Bebidas Energéticas Premium;10020281;Energético Red Blue Sugar Free 250ml;10.0;10.50;2026-04-01
+;MG;90013060;Bebidas Prontas para Consumo (RTD);10005769;Pack 4 Unidades Gin Tônica 269ml;20.0;5.99;2026-04-01
+2026-03-19;RJ;91503404;Bebidas Gasosas Saborizadas;10022638;Soda Limonada Classic 350ml;10.0;10.50;2026-04-01
+2026-03-18;rj;90013060;Bebidas Prontas para Consumo (RTD);10003698;Gin Tônica Frutas Vermelhas 269ml;10.0;15.00;2026-04-01
+2026-03-12;BA;90013213;Categoria de Bebidas Diversas;90013437;Água Tônica Industrial para Mistura 20L;10.0;15.00;2026-04-01
+2026-03-05;RJ;91503402;Bebidas Energéticas Funcionais;10022946;Energético Focus Max 250ml (Lata);50.0;15.00;2026-04-01
+2026-03-18;RJ;90013060;Bebidas Prontas para Consumo (RTD);10005775;Pack 12 Unidades Gin Tônica 269ml;10.0;15.00;2026-04-01
+2026-03-01;BA;90013014;Sucos Naturais Premium;10008339;Suco de Laranja Integral 2L;;10.50;2026-04-01
+2026-03-11;PR;90013223;Cervejas Especiais de Produção;10011512;Cerveja Black Stout Especial 500ml;50.0;10.50;2026-04-01
+2026-03-28;;90013210;Produção de Bebidas em Grande Escala;10023215;Aditivo de Corante Natural 1L;50.0;10.50;2026-04-01
+2026-03-10;PR;90013229;Laboratório de Qualidade de Bebidas;30002331;Densímetro Digital de Alta Precisão;;10.50;2026-04-01
+2026-03-10;PR;90013172;Bebidas Mistas Alcoólicas;10015855;Drink Misto Pineapple 269ml;50.0;10.50;2026-04-01
+2026-03-27;sp ;90013041;Cervejas Artesanais Lupuladas;10026840;Cerveja Session IPA Light 355ml;;5.99;2026-04-01
+2026-03-07;sp ;90013210;Produção de Bebidas em Grande Escala;10023219;Concentrado de Xarope Laranja 50L;50.0;10.50;2026-04-01
+2026-03-11;sp ;90013172;Bebidas Mistas Alcoólicas;10015849;Drink Misto Blueberry 330ml;10.0;5.99;2026-04-01
+2026-03-11;sp ;90013094;Bebidas Energéticas Premium;10020282;Energético Red Blue Tropical Edition 250ml;20.0;15.00;2026-04-01
+2026-03-11;SP;90013032;Vinhos Tintos Importados;10003736;Vinho Tinto Malbec Argentino 750ml;50.0;10.50;2026-04-01
+2026-03-06;PR;90013079;Refrigerantes Sabor Frutas;10007786;Refrigerante de Laranja 600ml;;15.00;2026-04-01
+2026-03-12;MG;90013212;Equipamentos para Produção de Bebidas;30002383;Barril Inox para Fermentação 30L;;15.00;2026-04-01
+2026-03-07;SP;90013172;Bebidas Mistas Alcoólicas;10015857;Drink Misto Peach 269ml;10.0;15.00;2026-04-01
+2026-03-09;rj;91503402;Bebidas Energéticas Funcionais;10022965;Energético Focus Max Zero 473ml;20.0;15.00;2026-04-01
+2026-03-10;BA;90013229;Laboratório de Qualidade de Bebidas;30002330;Sensor de pH Industrial para Tanques;;10.50;2026-04-01
+2026-03-13;rj;90013210;Produção de Bebidas em Grande Escala;10023223;Malte de Trigo Especial 25kg;10.0;15.00;2026-04-01
+2026-03-01;rj;90013210;Produção de Bebidas em Grande Escala;10023215;Aditivo de Corante Natural 1L;50.0;10.50;2026-04-01
+2026-03-12;SP;90013060;Bebidas Prontas para Consumo (RTD);10005771;Pack 6 Unidades Gin Tônica 269ml;10.0;10.50;2026-04-01
+2026-03-19;;90013094;Bebidas Energéticas Premium;10020282;Energético Red Blue Tropical Edition 250ml;20.0;10.50;2026-04-01
+2026-03-04;MG;91503409;Bebidas Prontas Geladas;10021536;Hard Seltzer Tangerina 310ml;50.0;15.00;2026-04-01
+2026-03-28;MG;91503409;Bebidas Prontas Geladas;10021537;Hard Seltzer Abacaxi 310ml;;10.50;2026-04-01
+2026-03-02;;90013022;Insumos para Produção de Bebidas;10026538;Lúpulo em Pellet para Brassagem 5kg;;15.00;2026-04-01
+2026-03-16;BA;90013153;Refrigerantes Sabor Cola;10001865;Refri Cola Original 600ml;10.0;10.50;2026-04-01
+2026-03-20;;91503402;Bebidas Energéticas Funcionais;10022965;Energético Focus Max Zero 473ml;;5.99;2026-04-01
+2026-03-01;PR;90013172;Bebidas Mistas Alcoólicas;10015852;Drink Misto Senses 269ml;50.0;5.99;2026-04-01
+2026-03-08;MG;90013059;Bebidas Ice e Cooler;10016993;Cooler de Vinho Rosé 750ml;;5.99;2026-04-01
+2026-03-17;SP;90013172;Bebidas Mistas Alcoólicas;10015857;Drink Misto Peach 269ml;;10.50;2026-04-01
+2026-03-11;RJ;90013060;Bebidas Prontas para Consumo (RTD);10003635;Gin Tônica em Lata 269ml;;15.00;2026-04-01
+2026-03-06;RJ;90013059;Bebidas Ice e Cooler;10016993;Cooler de Vinho Rosé 750ml;;10.50;2026-04-01
+2026-03-18;sp ;90013014;Sucos Naturais Premium;10008338;Suco de Laranja Integral 1L;10.0;10.50;2026-04-01
+2026-03-08;RJ;90013172;Bebidas Mistas Alcoólicas;10015850;Drink Misto Melancia 269ml;20.0;15.00;2026-04-01
+2026-03-26;MG;90013215;Cervejas Industriais;10007309;Cerveja Pilsen Econômica 473ml;10.0;10.50;2026-04-01
+2026-03-18;MG;91503404;Bebidas Gasosas Saborizadas;10022639;Soda Limonada Diet 350ml;10.0;5.99;2026-04-01
+2026-03-01;BA;90013094;Bebidas Energéticas Premium;10020283;Energético Red Blue Summer Edition 250ml;;10.50;2026-04-01
+2026-03-28;PR;90013022;Insumos para Produção de Bebidas;10026538;Lúpulo em Pellet para Brassagem 5kg;20.0;10.50;2026-04-01
+2026-03-19;;90013217;Base para Bebidas Alcoólicas;10003686;Álcool Etílico Neutro de Cereais 50L;50.0;15.00;2026-04-01
+2026-03-25;BA;90013172;Bebidas Mistas Alcoólicas;10015854;Pack Econômico Drink Misto 269ml;;5.99;2026-04-01
+2026-03-10;;91503409;Bebidas Prontas Geladas;10021535;Hard Seltzer Amora 310ml;20.0;5.99;2026-04-01
+2026-03-03;SP;90013060;Bebidas Prontas para Consumo (RTD);10005775;Pack 12 Unidades Gin Tônica 269ml;20.0;15.00;2026-04-01
+2026-03-19;sp ;90013060;Bebidas Prontas para Consumo (RTD);10005779;Margarita Pronta Lata 269ml;20.0;10.50;2026-04-01
+2026-03-28;sp ;90013079;Refrigerantes Sabor Frutas;10007785;Refrigerante de Guaraná 2L;;15.00;2026-04-01
+2026-03-20;RJ;91503409;Bebidas Prontas Geladas;10021538;Hard Seltzer Pack Mix 310ml;;5.99;2026-04-01
+2026-03-19;PR;90013014;Sucos Naturais Premium;10021324;Néctar de Uva Premium 1L;10.0;15.00;2026-04-01
+2026-03-13;sp ;90013071;Destilados Clássicos;10015725;Cachaça Envelhecida Clássica 600ml;20.0;5.99;2026-04-01
+2026-03-03;PR;90013153;Refrigerantes Sabor Cola;10001866;Refri Cola Original 2L;;10.50;2026-04-01
+2026-03-13;SP;90013214;Matéria-prima para Bebidas;10003715;Açúcar Cristal Refinado Industrial 50kg;20.0;15.00;2026-04-01
+2026-03-24;SP;90013154;Refrigerantes Tradicionais;10023011;Refrigerante Guaraná Retornável 1L;;5.99;2026-04-01
+2026-03-27;SP;91503409;Bebidas Prontas Geladas;10021537;Hard Seltzer Abacaxi 310ml;;15.00;2026-04-01
+2026-03-26;PR;90013215;Cervejas Industriais;10007309;Cerveja Pilsen Econômica 473ml;50.0;10.50;2026-04-01
+2026-03-14;MG;90013217;Base para Bebidas Alcoólicas;10016439;Kit de Insumos para Mixologia Industrial;10.0;15.00;2026-04-01
+2026-03-17;rj;90013159;Cervejas Puro Malte;10002818;Cerveja Puro Malte Premium 355ml;20.0;15.00;2026-04-01
+2026-03-23;rj;90013060;Bebidas Prontas para Consumo (RTD);10005777;Cocktail de Frutas Lata 269ml;10.0;5.99;2026-04-01
+2026-03-14;SP;90013218;Cervejas de Grande Produção;10003707;Chope Claro em Barril 50L;10.0;15.00;2026-04-01
+;SP;90013224;Vinhos e Espumantes;10017074;Espumante Brut 750ml;20.0;10.50;2026-04-01
+2026-03-25;rj;90013032;Vinhos Tintos Importados;10003736;Vinho Tinto Malbec Argentino 750ml;50.0;5.99;2026-04-01
+2026-03-13;RJ;90013172;Bebidas Mistas Alcoólicas;10015855;Drink Misto Pineapple 269ml;;15.00;2026-04-01
+2026-03-21;SP;90013231;Destilados Ultra Premium;10008901;Cognac XO Edição de Luxo 700ml;10.0;5.99;2026-04-01
+2026-03-13;sp ;90013159;Cervejas Puro Malte;10002818;Cerveja Puro Malte Premium 355ml;50.0;10.50;2026-04-01
+2026-03-19;rj;90013211;Controle de Qualidade de Bebidas;10022262;Solução de Limpeza Sanitizante 5L;10.0;5.99;2026-04-01
+;sp ;90013223;Cervejas Especiais de Produção;10011512;Cerveja Black Stout Especial 500ml;;10.50;2026-04-01
+2026-03-11;PR;90013018;Destilados Premium;10002994;Vodka Destilada Premium 1L;10.0;5.99;2026-04-01
+2026-03-14;RJ;90013220;Cervejas Comerciais;10005048;Cerveja Pilsen Comercial 1L;20.0;5.99;2026-04-01
+2026-03-11;;90013225;Licores e Destilados Aromáticos;10004460;Licor de Café Aromático 500ml;10.0;5.99;2026-04-01
+2026-03-26;sp ;90013005;Destilados Envelhecidos;10013358;Whisky Single Malt 12 Anos 750ml;;15.00;2026-04-01
+2026-03-06;PR;90013229;Laboratório de Qualidade de Bebidas;30002330;Sensor de pH Industrial para Tanques;50.0;10.50;2026-04-01
+2026-03-13;sp ;91503402;Bebidas Energéticas Funcionais;10022965;Energético Focus Max Zero 473ml;;15.00;2026-04-01
+2026-03-10;PR;90013094;Bebidas Energéticas Premium;10020283;Energético Red Blue Summer Edition 250ml;;15.00;2026-04-01
+2026-03-01;BA;90013210;Produção de Bebidas em Grande Escala;10022244;Levedura Cervejeira Especial 1kg;10.0;15.00;2026-04-01
+2026-03-10;PR;90013172;Bebidas Mistas Alcoólicas;10015853;Drink Misto Fire 269ml;20.0;15.00;2026-04-01
+2026-03-01;sp ;90013060;Bebidas Prontas para Consumo (RTD);10003703;Mojito Pronto Lata 269ml;20.0;15.00;2026-04-01
+2026-03-17;MG;90013210;Produção de Bebidas em Grande Escala;10023223;Malte de Trigo Especial 25kg;20.0;5.99;2026-04-01
+2026-03-06;SP;90013225;Licores e Destilados Aromáticos;10004460;Licor de Café Aromático 500ml;50.0;5.99;2026-04-01
+;BA;90013094;Bebidas Energéticas Premium;10020282;Energético Red Blue Tropical Edition 250ml;20.0;5.99;2026-04-01
+2026-03-16;BA;90013215;Cervejas Industriais;10007958;Cerveja Pilsen Econômica 269ml;50.0;10.50;2026-04-01
+2026-03-03;MG;90013222;Cervejas Premium de Mercado;10007981;Cerveja Lager Premium Gold 600ml;;15.00;2026-04-01
+2026-03-02;MG;90013041;Cervejas Artesanais Lupuladas;10026840;Cerveja Session IPA Light 355ml;10.0;10.50;2026-04-01
+2026-03-02;rj;90013172;Bebidas Mistas Alcoólicas;10015858;Drink Misto Strawberry 269ml;;5.99;2026-04-01
+2026-03-27;MG;90013060;Bebidas Prontas para Consumo (RTD);10005777;Cocktail de Frutas Lata 269ml;10.0;5.99;2026-04-01
+2026-03-18;rj;90013227;Bebidas Nutricionais;10007983;Shake Nutricional de Proteína 250ml;50.0;15.00;2026-04-01
+2026-03-07;SP;90013059;Bebidas Ice e Cooler;10016993;Cooler de Vinho Rosé 750ml;20.0;5.99;2026-04-01
+2026-03-16;MG;90013014;Sucos Naturais Premium;10021324;Néctar de Uva Premium 1L;20.0;15.00;2026-04-01
+2026-03-27;SP;90013014;Sucos Naturais Premium;10008338;Suco de Laranja Integral 1L;;5.99;2026-04-01
+2026-03-12;;90013217;Base para Bebidas Alcoólicas;10003690;Álcool Etílico Neutro de Cereais 500L;50.0;10.50;2026-04-01
+2026-03-16;PR;90013006;Bebidas Funcionais Vitaminadas;10022282;Isotônico Uva Vitaminado 500ml;50.0;5.99;2026-04-01
+2026-03-26;BA;90013060;Bebidas Prontas para Consumo (RTD);10005771;Pack 6 Unidades Gin Tônica 269ml;;10.50;2026-04-01
+2026-03-02;MG;90013210;Produção de Bebidas em Grande Escala;10023223;Malte de Trigo Especial 25kg;10.0;10.50;2026-04-01
+2026-03-02;RJ;90013210;Produção de Bebidas em Grande Escala;10023211;Concentrado de Xarope Guaraná 50L;10.0;5.99;2026-04-01
+2026-03-21;PR;91503404;Bebidas Gasosas Saborizadas;10022636;Água Tônica Tradicional 350ml;50.0;15.00;2026-04-01
+2026-03-28;RJ;90013068;Cervejas Especiais de Trigo;10003719;Cerveja Weiss Trigo Tradicional 500ml;;15.00;2026-04-01
+2026-03-15;rj;90013172;Bebidas Mistas Alcoólicas;10015858;Drink Misto Strawberry 269ml;;10.50;2026-04-01
+2026-03-09;rj;90013210;Produção de Bebidas em Grande Escala;10022244;Levedura Cervejeira Especial 1kg;20.0;5.99;2026-04-01
+2026-03-19;;90013060;Bebidas Prontas para Consumo (RTD);10003702;Vodka e Maçã Verde Lata 269ml;20.0;5.99;2026-04-01
+2026-03-16;sp ;90013215;Cervejas Industriais;10007958;Cerveja Pilsen Econômica 269ml;;5.99;2026-04-01
+2026-03-22;sp ;90013014;Sucos Naturais Premium;10021324;Néctar de Uva Premium 1L;;10.50;2026-04-01
+2026-03-11;PR;90013226;Bebidas Relaxantes e Digestivas;10005020;Bebida Digestiva de Ervas 200ml;50.0;10.50;2026-04-01
+2026-03-11;sp ;90013068;Cervejas Especiais de Trigo;10003719;Cerveja Weiss Trigo Tradicional 500ml;50.0;5.99;2026-04-01
+2026-03-24;sp ;91503402;Bebidas Energéticas Funcionais;10022954;Energético Focus Max Pack 6x250ml;20.0;10.50;2026-04-01
+2026-03-21;RJ;90013211;Controle de Qualidade de Bebidas;10022262;Solução de Limpeza Sanitizante 5L;10.0;10.50;2026-04-01
+2026-03-01;rj;90013153;Refrigerantes Sabor Cola;10001866;Refri Cola Original 2L;10.0;15.00;2026-04-01
+2026-03-13;SP;90013018;Destilados Premium;10002994;Vodka Destilada Premium 1L;20.0;5.99;2026-04-01
+2026-03-06;PR;90013172;Bebidas Mistas Alcoólicas;10015850;Drink Misto Melancia 269ml;20.0;10.50;2026-04-01
+2026-03-14;MG;90013215;Cervejas Industriais;10007958;Cerveja Pilsen Econômica 269ml;50.0;15.00;2026-04-01
+2026-03-26;SP;90013018;Destilados Premium;10002994;Vodka Destilada Premium 1L;50.0;10.50;2026-04-01
+2026-03-25;BA;90013060;Bebidas Prontas para Consumo (RTD);10003702;Vodka e Maçã Verde Lata 269ml;;10.50;2026-04-01
+2026-03-15;SP;90013220;Cervejas Comerciais;10005046;Cerveja Pilsen Comercial 600ml;50.0;10.50;2026-04-01
+2026-03-15;BA;90013220;Cervejas Comerciais;10005048;Cerveja Pilsen Comercial 1L;;15.00;2026-04-01
+2026-03-25;;90013079;Refrigerantes Sabor Frutas;10007787;Refrigerante de Laranja 2L;50.0;5.99;2026-04-01
+2026-03-23;SP;90013223;Cervejas Especiais de Produção;10011512;Cerveja Black Stout Especial 500ml;20.0;5.99;2026-04-01
+2026-03-10;RJ;90013172;Bebidas Mistas Alcoólicas;10015850;Drink Misto Melancia 269ml;50.0;5.99;2026-04-01
+2026-03-10;;90013014;Sucos Naturais Premium;10008337;Suco de Laranja Integral 500ml;10.0;15.00;2026-04-01
+2026-03-23;rj;90013032;Vinhos Tintos Importados;10001164;Vinho Tinto Cabernet Reservado 750ml;10.0;5.99;2026-04-01
+2026-03-21;SP;90013219;Bebidas Funcionais Naturais;10004608;Chá Energético Natural de Guaraná 500ml;10.0;5.99;2026-04-01
+2026-03-25;rj;90013076;Destilados de Alta Graduação;10020244;Absinto de Alta Graduação 500ml;;5.99;2026-04-01
+2026-03-25;PR;90013212;Equipamentos para Produção de Bebidas;30002390;Tampa e Lacre para Garrafas (Lote 1000);10.0;5.99;2026-04-01
+2026-03-26;BA;90013060;Bebidas Prontas para Consumo (RTD);10005777;Cocktail de Frutas Lata 269ml;20.0;5.99;2026-04-01
+;rj;90013082;Cervejas Regionais;10021924;Cerveja Pilsen Regional do Sul 600ml;;5.99;2026-04-01
+;PR;90013060;Bebidas Prontas para Consumo (RTD);10005773;Gin Tônica 1L (Garrafa);50.0;10.50;2026-04-01
+2026-03-12;PR;90013172;Bebidas Mistas Alcoólicas;10015853;Drink Misto Fire 269ml;50.0;15.00;2026-04-01
+2026-03-27;sp ;90013172;Bebidas Mistas Alcoólicas;10015851;Drink Misto Maracujá 269ml;20.0;5.99;2026-04-01
+2026-03-24;rj;91503402;Bebidas Energéticas Funcionais;10022954;Energético Focus Max Pack 6x250ml;20.0;15.00;2026-04-01
+2026-03-15;sp ;90013153;Refrigerantes Sabor Cola;10001864;Refri Cola Original 250ml;50.0;10.50;2026-04-01
+2026-03-08;sp ;90013220;Cervejas Comerciais;10005048;Cerveja Pilsen Comercial 1L;10.0;10.50;2026-04-01
+2026-03-21;SP;91503404;Bebidas Gasosas Saborizadas;10022636;Água Tônica Tradicional 350ml;20.0;10.50;2026-04-01
+2026-03-24;rj;90013060;Bebidas Prontas para Consumo (RTD);10005779;Margarita Pronta Lata 269ml;20.0;15.00;2026-04-01
+2026-03-28;MG;90013215;Cervejas Industriais;10007309;Cerveja Pilsen Econômica 473ml;;10.50;2026-04-01
+2026-03-19;MG;90013228;Espumantes e Vinhos Finos;10012250;Vinho Rosé Provence Fino 750ml;;5.99;2026-04-01
+2026-03-10;sp ;90013212;Equipamentos para Produção de Bebidas;30002383;Barril Inox para Fermentação 30L;20.0;15.00;2026-04-01
+2026-03-12;BA;90013079;Refrigerantes Sabor Frutas;10007784;Refrigerante de Guaraná 600ml;20.0;10.50;2026-04-01
+2026-03-14;PR;91503409;Bebidas Prontas Geladas;10021535;Hard Seltzer Amora 310ml;50.0;15.00;2026-04-01
+2026-03-01;;91503404;Bebidas Gasosas Saborizadas;10022638;Soda Limonada Classic 350ml;50.0;5.99;2026-04-01
+2026-03-16;PR;90013217;Base para Bebidas Alcoólicas;10016439;Kit de Insumos para Mixologia Industrial;20.0;15.00;2026-04-01
+2026-03-28;;91503404;Bebidas Gasosas Saborizadas;10022639;Soda Limonada Diet 350ml;;10.50;2026-04-01
+2026-03-14;;90013014;Sucos Naturais Premium;10021324;Néctar de Uva Premium 1L;50.0;15.00;2026-04-01
+2026-03-17;RJ;90013216;Cervejas Industriais Premium;10003734;Cerveja Premium Export 600ml;;10.50;2026-04-01
+2026-03-27;MG;90013172;Bebidas Mistas Alcoólicas;10015855;Drink Misto Pineapple 269ml;10.0;5.99;2026-04-01
+2026-03-16;sp ;90013231;Destilados Ultra Premium;10008901;Cognac XO Edição de Luxo 700ml;20.0;5.99;2026-04-01
+2026-03-05;sp ;90013222;Cervejas Premium de Mercado;10007981;Cerveja Lager Premium Gold 600ml;;5.99;2026-04-01
+2026-03-24;;90013172;Bebidas Mistas Alcoólicas;10015853;Drink Misto Fire 269ml;50.0;15.00;2026-04-01
+2026-03-26;;90013153;Refrigerantes Sabor Cola;10001865;Refri Cola Original 600ml;;5.99;2026-04-01
+2026-03-27;RJ;90013006;Bebidas Funcionais Vitaminadas;10022281;Isotônico Citrus Vitaminado 500ml;10.0;10.50;2026-04-01
+2026-03-24;rj;90013032;Vinhos Tintos Importados;10024278;Vinho Tinto Merlot Chileno 750ml;;5.99;2026-04-01
+2026-03-24;RJ;90013014;Sucos Naturais Premium;10021324;Néctar de Uva Premium 1L;;10.50;2026-04-01
+2026-03-07;RJ;90013060;Bebidas Prontas para Consumo (RTD);10005771;Pack 6 Unidades Gin Tônica 269ml;20.0;15.00;2026-04-01
+2026-03-07;RJ;90013215;Cervejas Industriais;10007309;Cerveja Pilsen Econômica 473ml;50.0;15.00;2026-04-01
+2026-03-26;;90013219;Bebidas Funcionais Naturais;10004608;Chá Energético Natural de Guaraná 500ml;20.0;10.50;2026-04-01
+2026-03-12;MG;90013216;Cervejas Industriais Premium;10003734;Cerveja Premium Export 600ml;50.0;15.00;2026-04-01
+2026-03-11;sp ;90013154;Refrigerantes Tradicionais;10023011;Refrigerante Guaraná Retornável 1L;50.0;15.00;2026-04-01
+2026-03-01;sp ;90013210;Produção de Bebidas em Grande Escala;10022244;Levedura Cervejeira Especial 1kg;20.0;15.00;2026-04-01
+2026-03-14;SP;90013212;Equipamentos para Produção de Bebidas;30002384;Barril Inox para Fermentação 50L;10.0;10.50;2026-04-01
+2026-03-22;RJ;90013222;Cervejas Premium de Mercado;10007981;Cerveja Lager Premium Gold 600ml;20.0;5.99;2026-04-01
+2026-03-24;PR;90013172;Bebidas Mistas Alcoólicas;10015857;Drink Misto Peach 269ml;20.0;10.50;2026-04-01
+2026-03-01;sp ;90013094;Bebidas Energéticas Premium;10020280;Energético Red Blue Original 250ml;50.0;5.99;2026-04-01
+2026-03-01;BA;90013032;Vinhos Tintos Importados;10024278;Vinho Tinto Merlot Chileno 750ml;20.0;5.99;2026-04-01
+2026-03-13;rj;90013172;Bebidas Mistas Alcoólicas;10015850;Drink Misto Melancia 269ml;50.0;10.50;2026-04-01
+2026-03-27;BA;90013217;Base para Bebidas Alcoólicas;10003690;Álcool Etílico Neutro de Cereais 500L;50.0;5.99;2026-04-01
+2026-03-16;MG;90013217;Base para Bebidas Alcoólicas;10003686;Álcool Etílico Neutro de Cereais 50L;20.0;5.99;2026-04-01
+2026-03-26;MG;90013079;Refrigerantes Sabor Frutas;10007787;Refrigerante de Laranja 2L;20.0;15.00;2026-04-01
+2026-03-22;MG;90013222;Cervejas Premium de Mercado;10007981;Cerveja Lager Premium Gold 600ml;;15.00;2026-04-01
+;BA;90013217;Base para Bebidas Alcoólicas;10003690;Álcool Etílico Neutro de Cereais 500L;20.0;15.00;2026-04-01
+2026-03-07;rj;90013014;Sucos Naturais Premium;10021324;Néctar de Uva Premium 1L;10.0;15.00;2026-04-01
+2026-03-09;SP;90013172;Bebidas Mistas Alcoólicas;10015848;Drink Misto Blueberry 269ml;20.0;5.99;2026-04-01
+;BA;90013006;Bebidas Funcionais Vitaminadas;10022283;Isotônico Tangerina Vitaminado 500ml;20.0;10.50;2026-04-01
+2026-03-01;rj;90013230;Refrigerantes Premium;10008007;Ginger Ale Premium Ginger 350ml;;15.00;2026-04-01
+2026-03-18;PR;90013222;Cervejas Premium de Mercado;10007981;Cerveja Lager Premium Gold 600ml;50.0;10.50;2026-04-01
+2026-03-01;MG;90013060;Bebidas Prontas para Consumo (RTD);10005769;Pack 4 Unidades Gin Tônica 269ml;20.0;15.00;2026-04-01
+;SP;90013071;Destilados Clássicos;10015725;Cachaça Envelhecida Clássica 600ml;20.0;5.99;2026-04-01
+2026-03-05;PR;90013172;Bebidas Mistas Alcoólicas;10015857;Drink Misto Peach 269ml;10.0;5.99;2026-04-01
+2026-03-01;SP;90013210;Produção de Bebidas em Grande Escala;10023225;Concentrado de Polpa de Fruta 20kg;;15.00;2026-04-01
+2026-03-19;SP;90013006;Bebidas Funcionais Vitaminadas;10022282;Isotônico Uva Vitaminado 500ml;;15.00;2026-04-01
+2026-03-14;RJ;90013172;Bebidas Mistas Alcoólicas;10015850;Drink Misto Melancia 269ml;50.0;5.99;2026-04-01
+2026-03-27;BA;90013212;Equipamentos para Produção de Bebidas;30002390;Tampa e Lacre para Garrafas (Lote 1000);;10.50;2026-04-01
+2026-03-07;rj;90013079;Refrigerantes Sabor Frutas;10007786;Refrigerante de Laranja 600ml;10.0;10.50;2026-04-01
+2026-03-03;RJ;91503402;Bebidas Energéticas Funcionais;10022949;Energético Focus Max 1L (Garrafa);20.0;10.50;2026-04-01
+2026-03-13;BA;90013212;Equipamentos para Produção de Bebidas;30002384;Barril Inox para Fermentação 50L;;10.50;2026-04-01
+2026-03-16;rj;90013060;Bebidas Prontas para Consumo (RTD);10005771;Pack 6 Unidades Gin Tônica 269ml;10.0;5.99;2026-04-01
+2026-03-17;;90013014;Sucos Naturais Premium;10008336;Suco de Laranja Integral 300ml;;10.50;2026-04-01
+2026-03-14;MG;91503402;Bebidas Energéticas Funcionais;10022954;Energético Focus Max Pack 6x250ml;;10.50;2026-04-01
+2026-03-23;sp ;90013221;Produção de Bebidas em Escala;10005054;Gás Carbônico Alimentício 20kg;10.0;5.99;2026-04-01
+2026-03-06;SP;90013153;Refrigerantes Sabor Cola;10001866;Refri Cola Original 2L;;10.50;2026-04-01
+2026-03-01;;90013041;Cervejas Artesanais Lupuladas;10026840;Cerveja Session IPA Light 355ml;20.0;10.50;2026-04-01
+2026-03-21;BA;91503409;Bebidas Prontas Geladas;10021535;Hard Seltzer Amora 310ml;20.0;15.00;2026-04-01
+2026-03-24;SP;90013094;Bebidas Energéticas Premium;10020282;Energético Red Blue Tropical Edition 250ml;20.0;5.99;2026-04-01
+2026-03-09;PR;90013219;Bebidas Funcionais Naturais;10004608;Chá Energético Natural de Guaraná 500ml;10.0;15.00;2026-04-01
+2026-03-08;RJ;90013006;Bebidas Funcionais Vitaminadas;10022283;Isotônico Tangerina Vitaminado 500ml;;10.50;2026-04-01
+2026-03-15;BA;90013226;Bebidas Relaxantes e Digestivas;10005020;Bebida Digestiva de Ervas 200ml;10.0;5.99;2026-04-01
+2026-03-18;SP;90013071;Destilados Clássicos;10015725;Cachaça Envelhecida Clássica 600ml;10.0;15.00;2026-04-01
+2026-03-18;BA;90013014;Sucos Naturais Premium;10008337;Suco de Laranja Integral 500ml;;15.00;2026-04-01
+2026-03-26;RJ;90013060;Bebidas Prontas para Consumo (RTD);10005775;Pack 12 Unidades Gin Tônica 269ml;50.0;15.00;2026-04-01
+2026-03-23;BA;91503404;Bebidas Gasosas Saborizadas;10022638;Soda Limonada Classic 350ml;20.0;10.50;2026-04-01
+2026-03-09;SP;90013217;Base para Bebidas Alcoólicas;10003686;Álcool Etílico Neutro de Cereais 50L;10.0;10.50;2026-04-01
+2026-03-06;RJ;90013172;Bebidas Mistas Alcoólicas;10015852;Drink Misto Senses 269ml;;10.50;2026-04-01
+2026-03-26;;90013220;Cervejas Comerciais;10005048;Cerveja Pilsen Comercial 1L;10.0;5.99;2026-04-01
+2026-03-26;SP;90013014;Sucos Naturais Premium;10008339;Suco de Laranja Integral 2L;;10.50;2026-04-01
+2026-03-08;BA;90013172;Bebidas Mistas Alcoólicas;10015853;Drink Misto Fire 269ml;;10.50;2026-04-01
+2026-03-13;rj;90013060;Bebidas Prontas para Consumo (RTD);10003700;Vodka e Citrus Lata 269ml;;10.50;2026-04-01
+2026-03-19;RJ;90013223;Cervejas Especiais de Produção;10011512;Cerveja Black Stout Especial 500ml;50.0;15.00;2026-04-01
+2026-03-02;RJ;90013082;Cervejas Regionais;10021923;Cerveja Pilsen Regional do Norte 600ml;50.0;5.99;2026-04-01
+2026-03-12;rj;90013212;Equipamentos para Produção de Bebidas;30002390;Tampa e Lacre para Garrafas (Lote 1000);20.0;10.50;2026-04-01
+2026-03-21;sp ;91503404;Bebidas Gasosas Saborizadas;10022639;Soda Limonada Diet 350ml;10.0;10.50;2026-04-01
+2026-03-06;PR;90013011;Cervejas Lager Tradicionais;10001628;Cerveja Lager Standard 350ml (Lata);20.0;10.50;2026-04-01
+2026-03-21;MG;90013172;Bebidas Mistas Alcoólicas;10015852;Drink Misto Senses 269ml;;15.00;2026-04-01
+2026-03-11;;90013217;Base para Bebidas Alcoólicas;10003690;Álcool Etílico Neutro de Cereais 500L;50.0;10.50;2026-04-01
+2026-03-03;PR;90013014;Sucos Naturais Premium;10008336;Suco de Laranja Integral 300ml;10.0;10.50;2026-04-01
+2026-03-15;SP;90013227;Bebidas Nutricionais;10007983;Shake Nutricional de Proteína 250ml;10.0;10.50;2026-04-01
+2026-03-15;rj;91503405;Energéticos de Alta Performance;10023656;Shot Energético Ultra-Concentrado 60ml;50.0;15.00;2026-04-01
+2026-03-02;rj;90013228;Espumantes e Vinhos Finos;10012250;Vinho Rosé Provence Fino 750ml;50.0;5.99;2026-04-01
+2026-03-10;MG;90013230;Refrigerantes Premium;10008007;Ginger Ale Premium Ginger 350ml;20.0;5.99;2026-04-01
+2026-03-07;BA;90013220;Cervejas Comerciais;10005047;Cerveja Pilsen Comercial 350ml;50.0;15.00;2026-04-01
+2026-03-10;sp ;90013068;Cervejas Especiais de Trigo;10003720;Cerveja Weiss Trigo Dunkel 500ml;20.0;10.50;2026-04-01
+2026-03-02;MG;90013011;Cervejas Lager Tradicionais;10001628;Cerveja Lager Standard 350ml (Lata);;5.99;2026-04-01
+2026-03-11;;90013060;Bebidas Prontas para Consumo (RTD);10003696;Gin Tônica Limão 269ml;10.0;10.50;2026-04-01
+2026-03-05;rj;90013172;Bebidas Mistas Alcoólicas;10015852;Drink Misto Senses 269ml;50.0;5.99;2026-04-01
+2026-03-13;sp ;90013076;Destilados de Alta Graduação;10020244;Absinto de Alta Graduação 500ml;20.0;5.99;2026-04-01
+2026-03-03;rj;90013060;Bebidas Prontas para Consumo (RTD);10005769;Pack 4 Unidades Gin Tônica 269ml;20.0;15.00;2026-04-01
+2026-03-23;BA;90013041;Cervejas Artesanais Lupuladas;10026840;Cerveja Session IPA Light 355ml;20.0;15.00;2026-04-01
+2026-03-26;;90013212;Equipamentos para Produção de Bebidas;30002390;Tampa e Lacre para Garrafas (Lote 1000);10.0;5.99;2026-04-01
+2026-03-08;BA;90013213;Categoria de Bebidas Diversas;90013437;Água Tônica Industrial para Mistura 20L;50.0;5.99;2026-04-01
+2026-03-27;;91503404;Bebidas Gasosas Saborizadas;10022638;Soda Limonada Classic 350ml;10.0;10.50;2026-04-01
+2026-03-26;RJ;90013060;Bebidas Prontas para Consumo (RTD);10005775;Pack 12 Unidades Gin Tônica 269ml;10.0;10.50;2026-04-01
+2026-03-18;rj;90013212;Equipamentos para Produção de Bebidas;30002383;Barril Inox para Fermentação 30L;50.0;15.00;2026-04-01
+2026-03-07;SP;90013212;Equipamentos para Produção de Bebidas;30002390;Tampa e Lacre para Garrafas (Lote 1000);;15.00;2026-04-01
+2026-03-08;RJ;90013041;Cervejas Artesanais Lupuladas;10008019;Cerveja IPA Imperial Lúpulo 473ml;10.0;5.99;2026-04-01
+2026-03-27;SP;90013068;Cervejas Especiais de Trigo;10003719;Cerveja Weiss Trigo Tradicional 500ml;20.0;15.00;2026-04-01
+2026-03-23;MG;91503402;Bebidas Energéticas Funcionais;10022965;Energético Focus Max Zero 473ml;10.0;10.50;2026-04-01
+2026-03-25;BA;90013068;Cervejas Especiais de Trigo;10003719;Cerveja Weiss Trigo Tradicional 500ml;10.0;10.50;2026-04-01
+2026-03-03;RJ;90013172;Bebidas Mistas Alcoólicas;10015851;Drink Misto Maracujá 269ml;50.0;5.99;2026-04-01
+2026-03-15;;91503409;Bebidas Prontas Geladas;10021539;Hard Seltzer Guaraná 310ml;;10.50;2026-04-01
+2026-03-18;SP;90013014;Sucos Naturais Premium;10008338;Suco de Laranja Integral 1L;50.0;15.00;2026-04-01
+2026-03-05;rj;90013210;Produção de Bebidas em Grande Escala;10023219;Concentrado de Xarope Laranja 50L;;15.00;2026-04-01
+2026-03-20;SP;90013216;Cervejas Industriais Premium;10003734;Cerveja Premium Export 600ml;10.0;5.99;2026-04-01
+2026-03-07;MG;90013082;Cervejas Regionais;10021923;Cerveja Pilsen Regional do Norte 600ml;50.0;10.50;2026-04-01
+2026-03-03;rj;90013229;Laboratório de Qualidade de Bebidas;30002330;Sensor de pH Industrial para Tanques;20.0;5.99;2026-04-01
+2026-03-10;sp ;91503404;Bebidas Gasosas Saborizadas;10022638;Soda Limonada Classic 350ml;50.0;15.00;2026-04-01
+2026-03-02;sp ;90013060;Bebidas Prontas para Consumo (RTD);10003698;Gin Tônica Frutas Vermelhas 269ml;50.0;15.00;2026-04-01
+2026-03-06;sp ;90013011;Cervejas Lager Tradicionais;10001628;Cerveja Lager Standard 350ml (Lata);20.0;10.50;2026-04-01
+2026-03-14;BA;90013217;Base para Bebidas Alcoólicas;10003690;Álcool Etílico Neutro de Cereais 500L;50.0;10.50;2026-04-01
+2026-03-13;sp ;90013220;Cervejas Comerciais;10005048;Cerveja Pilsen Comercial 1L;50.0;5.99;2026-04-01
+;BA;91503404;Bebidas Gasosas Saborizadas;10022639;Soda Limonada Diet 350ml;;15.00;2026-04-01
+2026-03-23;RJ;90013216;Cervejas Industriais Premium;10003734;Cerveja Premium Export 600ml;;5.99;2026-04-01
+2026-03-15;RJ;90013217;Base para Bebidas Alcoólicas;10003690;Álcool Etílico Neutro de Cereais 500L;10.0;10.50;2026-04-01
+2026-03-09;MG;90013216;Cervejas Industriais Premium;10003734;Cerveja Premium Export 600ml;;5.99;2026-04-01
+2026-03-17;BA;90013172;Bebidas Mistas Alcoólicas;10015854;Pack Econômico Drink Misto 269ml;;5.99;2026-04-01
+2026-03-28;rj;90013222;Cervejas Premium de Mercado;10007981;Cerveja Lager Premium Gold 600ml;;15.00;2026-04-01
+2026-03-08;;90013213;Categoria de Bebidas Diversas;90013437;Água Tônica Industrial para Mistura 20L;50.0;10.50;2026-04-01
+2026-03-23;PR;90013094;Bebidas Energéticas Premium;10020283;Energético Red Blue Summer Edition 250ml;10.0;15.00;2026-04-01
+2026-03-19;;90013023;Destilados Especiais;10013359;Rum Carta Blanca Especial 1L;;15.00;2026-04-01
+2026-03-01;MG;91503402;Bebidas Energéticas Funcionais;10022954;Energético Focus Max Pack 6x250ml;10.0;5.99;2026-04-01
+2026-03-13;PR;90013213;Categoria de Bebidas Diversas;90013437;Água Tônica Industrial para Mistura 20L;50.0;5.99;2026-04-01
+2026-03-08;;90013210;Produção de Bebidas em Grande Escala;10022244;Levedura Cervejeira Especial 1kg;50.0;15.00;2026-04-01
+2026-03-10;SP;90013094;Bebidas Energéticas Premium;10020280;Energético Red Blue Original 250ml;10.0;5.99;2026-04-01
+2026-03-19;PR;90013220;Cervejas Comerciais;10005047;Cerveja Pilsen Comercial 350ml;10.0;10.50;2026-04-01
+2026-03-03;BA;90013005;Destilados Envelhecidos;10013358;Whisky Single Malt 12 Anos 750ml;;10.50;2026-04-01
+2026-03-24;rj;90013060;Bebidas Prontas para Consumo (RTD);10005779;Margarita Pronta Lata 269ml;20.0;10.50;2026-04-01
+2026-03-17;;91503405;Energéticos de Alta Performance;10023656;Shot Energético Ultra-Concentrado 60ml;10.0;5.99;2026-04-01
+2026-03-18;SP;90013023;Destilados Especiais;10013359;Rum Carta Blanca Especial 1L;20.0;15.00;2026-04-01
+2026-03-14;sp ;90013218;Cervejas de Grande Produção;10003707;Chope Claro em Barril 50L;;5.99;2026-04-01
+2026-03-04;RJ;90013032;Vinhos Tintos Importados;10003736;Vinho Tinto Malbec Argentino 750ml;10.0;15.00;2026-04-01
+2026-03-08;rj;91503404;Bebidas Gasosas Saborizadas;10022637;Água Tônica com Limão 350ml;50.0;5.99;2026-04-01
+2026-03-07;;90013217;Base para Bebidas Alcoólicas;10003686;Álcool Etílico Neutro de Cereais 50L;20.0;5.99;2026-04-01
+2026-03-12;BA;90013094;Bebidas Energéticas Premium;10020282;Energético Red Blue Tropical Edition 250ml;20.0;10.50;2026-04-01
+2026-03-25;sp ;90013006;Bebidas Funcionais Vitaminadas;10022281;Isotônico Citrus Vitaminado 500ml;20.0;10.50;2026-04-01
+2026-03-25;rj;90013023;Destilados Especiais;10013359;Rum Carta Blanca Especial 1L;50.0;5.99;2026-04-01
+2026-03-04;MG;91503402;Bebidas Energéticas Funcionais;10022946;Energético Focus Max 250ml (Lata);10.0;10.50;2026-04-01
+2026-03-18;rj;90013014;Sucos Naturais Premium;10008338;Suco de Laranja Integral 1L;10.0;10.50;2026-04-01
+2026-03-26;sp ;90013082;Cervejas Regionais;10021924;Cerveja Pilsen Regional do Sul 600ml;20.0;5.99;2026-04-01
+2026-03-23;MG;90013172;Bebidas Mistas Alcoólicas;10015858;Drink Misto Strawberry 269ml;;10.50;2026-04-01
+2026-03-15;RJ;91503409;Bebidas Prontas Geladas;10021538;Hard Seltzer Pack Mix 310ml;20.0;10.50;2026-04-01
+2026-03-28;;90013229;Laboratório de Qualidade de Bebidas;30002330;Sensor de pH Industrial para Tanques;20.0;10.50;2026-04-01
+;PR;90013153;Refrigerantes Sabor Cola;10001866;Refri Cola Original 2L;20.0;10.50;2026-04-01
+2026-03-08;BA;90013022;Insumos para Produção de Bebidas;10026538;Lúpulo em Pellet para Brassagem 5kg;10.0;10.50;2026-04-01
+2026-03-25;;90013060;Bebidas Prontas para Consumo (RTD);10003700;Vodka e Citrus Lata 269ml;50.0;10.50;2026-04-01
+2026-03-27;RJ;90013172;Bebidas Mistas Alcoólicas;10015857;Drink Misto Peach 269ml;20.0;15.00;2026-04-01
+2026-03-02;BA;90013210;Produção de Bebidas em Grande Escala;10023219;Concentrado de Xarope Laranja 50L;50.0;5.99;2026-04-01
+2026-03-09;sp ;90013221;Produção de Bebidas em Escala;10005054;Gás Carbônico Alimentício 20kg;20.0;5.99;2026-04-01
+2026-03-21;BA;91503402;Bebidas Energéticas Funcionais;10022949;Energético Focus Max 1L (Garrafa);20.0;10.50;2026-04-01
+2026-03-18;rj;91503402;Bebidas Energéticas Funcionais;10022954;Energético Focus Max Pack 6x250ml;50.0;5.99;2026-04-01
+2026-03-16;PR;91503405;Energéticos de Alta Performance;10023656;Shot Energético Ultra-Concentrado 60ml;10.0;15.00;2026-04-01
+;RJ;90013230;Refrigerantes Premium;10008007;Ginger Ale Premium Ginger 350ml;50.0;15.00;2026-04-01
+2026-03-03;BA;90013219;Bebidas Funcionais Naturais;10004608;Chá Energético Natural de Guaraná 500ml;50.0;10.50;2026-04-01
+2026-03-03;PR;91503402;Bebidas Energéticas Funcionais;10022946;Energético Focus Max 250ml (Lata);10.0;5.99;2026-04-01
+2026-03-27;MG;90013172;Bebidas Mistas Alcoólicas;10015849;Drink Misto Blueberry 330ml;;5.99;2026-04-01
+2026-03-08;BA;91503405;Energéticos de Alta Performance;10023656;Shot Energético Ultra-Concentrado 60ml;10.0;10.50;2026-04-01
+2026-03-20;rj;90013023;Destilados Especiais;10013359;Rum Carta Blanca Especial 1L;50.0;5.99;2026-04-01
+2026-03-14;PR;90013217;Base para Bebidas Alcoólicas;10003690;Álcool Etílico Neutro de Cereais 500L;50.0;15.00;2026-04-01
+2026-03-04;;90013172;Bebidas Mistas Alcoólicas;10015850;Drink Misto Melancia 269ml;20.0;15.00;2026-04-01
+2026-03-01;RJ;90013210;Produção de Bebidas em Grande Escala;10023215;Aditivo de Corante Natural 1L;50.0;5.99;2026-04-01
+2026-03-25;;90013060;Bebidas Prontas para Consumo (RTD);10003696;Gin Tônica Limão 269ml;10.0;5.99;2026-04-01
+2026-03-20;RJ;90013153;Refrigerantes Sabor Cola;10001865;Refri Cola Original 600ml;50.0;10.50;2026-04-01
+2026-03-13;rj;90013060;Bebidas Prontas para Consumo (RTD);10005777;Cocktail de Frutas Lata 269ml;10.0;15.00;2026-04-01
+2026-03-05;BA;90013068;Cervejas Especiais de Trigo;10003719;Cerveja Weiss Trigo Tradicional 500ml;;10.50;2026-04-01
+2026-03-05;BA;91503404;Bebidas Gasosas Saborizadas;10022639;Soda Limonada Diet 350ml;50.0;15.00;2026-04-01
+2026-03-26;;90013060;Bebidas Prontas para Consumo (RTD);10003635;Gin Tônica em Lata 269ml;;15.00;2026-04-01
+2026-03-07;RJ;91503409;Bebidas Prontas Geladas;10021539;Hard Seltzer Guaraná 310ml;10.0;15.00;2026-04-01
+2026-03-16;PR;90013060;Bebidas Prontas para Consumo (RTD);10003635;Gin Tônica em Lata 269ml;50.0;15.00;2026-04-01
+2026-03-26;MG;90013060;Bebidas Prontas para Consumo (RTD);10003635;Gin Tônica em Lata 269ml;;10.50;2026-04-01
+2026-03-22;PR;90013211;Controle de Qualidade de Bebidas;10022262;Solução de Limpeza Sanitizante 5L;;10.50;2026-04-01
+2026-03-26;BA;90013060;Bebidas Prontas para Consumo (RTD);10005773;Gin Tônica 1L (Garrafa);10.0;5.99;2026-04-01
+2026-03-27;PR;90013227;Bebidas Nutricionais;10007983;Shake Nutricional de Proteína 250ml;10.0;15.00;2026-04-01
+;;90013014;Sucos Naturais Premium;10008338;Suco de Laranja Integral 1L;20.0;5.99;2026-04-01
+2026-03-15;MG;90013229;Laboratório de Qualidade de Bebidas;30002331;Densímetro Digital de Alta Precisão;;10.50;2026-04-01
+2026-03-27;rj;90013014;Sucos Naturais Premium;10008337;Suco de Laranja Integral 500ml;10.0;10.50;2026-04-01
+2026-03-13;sp ;90013220;Cervejas Comerciais;10005048;Cerveja Pilsen Comercial 1L;50.0;15.00;2026-04-01
+2026-03-13;RJ;90013172;Bebidas Mistas Alcoólicas;10015856;Drink Misto Lemonade 269ml;50.0;5.99;2026-04-01
+2026-03-15;;90013060;Bebidas Prontas para Consumo (RTD);10003700;Vodka e Citrus Lata 269ml;20.0;15.00;2026-04-01
+2026-03-17;SP;90013060;Bebidas Prontas para Consumo (RTD);10005777;Cocktail de Frutas Lata 269ml;50.0;10.50;2026-04-01
+2026-03-27;;91503402;Bebidas Energéticas Funcionais;10022949;Energético Focus Max 1L (Garrafa);10.0;10.50;2026-04-01
+2026-03-09;SP;90013023;Destilados Especiais;10013359;Rum Carta Blanca Especial 1L;;5.99;2026-04-01
+2026-03-12;MG;90013172;Bebidas Mistas Alcoólicas;10015858;Drink Misto Strawberry 269ml;10.0;10.50;2026-04-01
+2026-03-02;SP;90013068;Cervejas Especiais de Trigo;10003719;Cerveja Weiss Trigo Tradicional 500ml;50.0;15.00;2026-04-01
+2026-03-14;MG;90013224;Vinhos e Espumantes;10017074;Espumante Brut 750ml;10.0;15.00;2026-04-01
+2026-03-08;SP;90013172;Bebidas Mistas Alcoólicas;10015855;Drink Misto Pineapple 269ml;50.0;10.50;2026-04-01
+2026-03-02;MG;90013231;Destilados Ultra Premium;10008901;Cognac XO Edição de Luxo 700ml;20.0;15.00;2026-04-01
