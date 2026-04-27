@@ -47,6 +47,7 @@ Se algo parecer confuso, provavelmente pode ser simplificado, e esse é o objeti
 
 ## 📁 Estrutura do Projeto
 
+```bash
 fdevs-python-data/
 │
 ├── data/
@@ -55,7 +56,7 @@ fdevs-python-data/
 ├── notebooks/      # Análises exploratórias e exemplos didáticos
 │
 ├── README.md
-
+```
 
 ---
 
